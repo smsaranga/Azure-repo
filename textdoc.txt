@@ -1,0 +1,45 @@
+gmail - kamalamuralidhar@gmail.com - Sowdhamini9
+
+US travel docs - Sowdhamini9
+
+Azure VM admin - azuretestuser 
+                 Bed727bar590 
+
+40.117.134.127
+
+https://teams.microsoft.com/l/meetup-join/19%3a7b8ab76db2e64756980a260237d84313%40thread.tacv2/1619512752964?context=%7b%22Tid%22%3a%2200019fc9-044d-41ed-8120-a3e1eb0ec3c4%22%2c%22Oid%22%3a%2262ce95c4-0a7d-41e8-9703-ec2c5492b60e%22%7d
+
+Git command heirarchy
+user id/name and password creation and configuration
+
+- git config --global user.email "swethareddy.ram@gmail.com"
+- git config --global user.name "swethaplexasys"
+
+
+- git clone *url*
+- git status (to check changes)
+- git add *file name*
+- git add.
+- git commit -m *file name*
+- git push
+
+- git branch -a (to check or view all branches)
+
+- git checkout (to be updated on 24-05-2021)
+
+Classic Comedies (31694)
+Classic Dramas (29809)
+Classic Sci-Fi & Fantasy (47147)
+Classic Thrillers (46588)
+Film Noir (7687)
+Classic War Movies (48744)
+Epics (52858)
+Classic Foreign Movies (32473)
+
+
+HDFC CC - 
+
+_________
+- Availability Zone (disasters, systems goes down, maintaining same VM in some other region.
+- Availability Set - same kind of VM
+- Azure spot instance (
